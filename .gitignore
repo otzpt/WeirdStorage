@@ -1,0 +1,4 @@
+.wakatime-project
+*.wav
+__pycache__
+.venv
